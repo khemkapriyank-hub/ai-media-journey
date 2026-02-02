@@ -1,6 +1,6 @@
 # AI Media Journey (Feb–Dec 2026)
 
-Senior Media Buying → AI & ML Leadership for Marketing
+Senior Media Buying → AI & ML Leadership for Marketing and Media
 
 ## Goals
 - Transition into advertiser-side AI/ML leadership
