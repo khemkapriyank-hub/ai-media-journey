@@ -33,3 +33,7 @@ Senior Media Buying → AI & ML Leadership for Marketing and Media
 
 ## Current Status
 - have not started yet. today was first task of setting this read me.
+
+## Current Status
+- Paused Custom GPT to reduce complexity
+- Focusing on one thread execution 
