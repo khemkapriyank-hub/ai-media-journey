@@ -1,0 +1,8 @@
+# translating business to coding structure
+
+Problem at hand- campaign performance
+
+--> Business question: how to ensure that the pricing benchmarks are competitive against comptetition brands
+--> Input data: we would need the spends of competition brands, which is next to impossible to guess. this would require modelling of its own
+--> Output: expected output is a rating structure which needs to tell whether our pricing is equal to cheaper or expensive than competition
+--> Action: this data will help leadership negotiate deals at a consolidated level to ensure our pricing stays competitive in market
