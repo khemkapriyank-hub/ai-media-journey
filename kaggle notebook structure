@@ -1,0 +1,10 @@
+# Introduction to notebooks
+started studying the notebook- Titanic data science solutions: https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/output
+below were my findings:
+  a. Data loaded using read_csv command from kaggle- "train_df = pd.read_csv('../input/train.csv')\n",
+    "test_df = pd.read_csv('../input/test.csv')\n",
+  b. Data is explored using  "train_df.head()" or "train_df.describe()\n"
+  c. Logistic regression model was added   "logreg.fit(X_train, Y_train)\n",
+  d. accuracy score was predicted using  "acc_log = round(logreg.score(X_train, Y_train) * 100, 2)\n",
+
+
